@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">B1bliothèque</string>
+    <string name="biblioth_que">Bibliothèque</string>
+    <string name="edit_mail">Mail</string>
+    <string name="edit_mot_de_passe">Mot de passe</string>
+    <string name="validez_login">Validez</string>
+    <string name="ok">OK</string>
+    <string name="mdp_vide">Le Mot de Passe est vide, veuillez saisir une valeur.</string>
+    <string name="email_vide">L\'Email est vide, veuillez saisir une valeur.</string>
+    <string name="champs_vide">Les champs sont vide, veuillez saisir des valeur.</string>
+    <string name="title_mdp_vide">Mot de passe vide</string>
+    <string name="title_email_vide">Email vide</string>
+    <string name="title_champs_vides">Les champs sont vides</string>
+    <string name="title_id_faux">Identifiants faux</string>
+    <string name="id_faux">Les identifiants rentrés sont erronés.</string>
+    <string name="livres_disponibles">Livres Disponibles</string>
+
+</resources>
